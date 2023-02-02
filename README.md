@@ -9,6 +9,11 @@ Pour la start-up, cette application permettrait de sensibiliser le grand public 
 
 De plus, le développement de l’application mobile permettra de construire une première version de l'architecture Big Data nécessaire.
 
+Développer une première architecture Big Data,
+Préprocessing des images et réduction de dimension,
+Anticipation du passage à l’échelle.
+
+
 
 Technologies que j'ai utilisées dans ce projet; développer des scripts en Pyspark et à utiliser le cloud AWS pour profiter d’une architecture Big Data (EMR, S3, IAM).
 Une étape de réduction de dimension de type PCA en PySpark 

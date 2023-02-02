@@ -1,1 +1,1 @@
-# D-ployez-un-mod-le-dans-le-cloud
+# Deployez-un-modele-dans-le-cloud

@@ -1,4 +1,4 @@
-# Projet8-Openclassrooms Déployer d'un modèle dans le cloud (AWS) 
+# Projet8-Openclassrooms:Déployer d'un modèle dans le cloud (AWS) 
 ## Deploy a Model on AWS
 
 &nbsp;

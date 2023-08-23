@@ -32,7 +32,7 @@ Utiliser le cloud AWS pour profiter d’une architecture Big Data (EMR, S3, IAM)
 Le jeu de données est un ensemble d'images de fruits et de labels associés: https://www.kaggle.com/moltean/fruits!
 
 ## Méthodes
-Technologies que j'ai utilisées dans ce projet; développer des scripts en Pyspark et à utiliser le cloud AWS pour profiter d’une architecture Big Data (EMR, S3, IAM). Configuration d'une instance AWS EC2, Réalisation de scripts pyspark et exécution dans le cloud, Lecture et enregistrement de données sur Amazon S3.
+Technologies que j'ai utilisées dans ce projet; configuration d'une instance AWS EC2, développer des scripts en Pyspark et à utiliser le cloud AWS pour profiter d’une architecture Big Data (EMR, S3, IAM), Lecture et enregistrement de données sur Amazon S3.
 Une étape de réduction de dimension de type PCA en PySpark 
 
 

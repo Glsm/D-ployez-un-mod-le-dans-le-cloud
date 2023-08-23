@@ -6,7 +6,7 @@
 **Author:** Gulsum Kapanoglu
 
 ***
-<img src="fruits.png">
+<img src="img/fruits.png">
 
 ## Description de projet!
 La très jeune start-up de l'AgriTech, nommée "Fruits!", cherche à proposer des solutions innovantes pour la récolte des fruits. Elle souhaite dans un premier temps se faire connaître en mettant à disposition du grand public une application mobile qui permettrait aux utilisateurs de prendre en photo un fruit et d'obtenir des informations sur ce fruit.
@@ -18,6 +18,8 @@ Pour la start-up, cette application permettrait de sensibiliser le grand public 
 Développer une première architecture Big Data,
 Préprocessing des images et réduction de dimension,
 Anticipation du passage à l’échelle.
+
+<img src="img/agritech.jpeg">
 
 ## Objectif de projets
 L'objectif de ce projet est de développer un environnement Big Data qui comprendra le preprocessing et une étape de réduction de dimension.

@@ -1,4 +1,4 @@
-# Déployer un modèle dans le cloud (AWS) OC_Project8
+# Déployer d'un modèle dans le cloud (AWS) OC_Project8
 ## Deploy a Model on AWS
 
 &nbsp;
@@ -34,4 +34,4 @@ Technologies que j'ai utilisées dans ce projet; développer des scripts en Pysp
 Une étape de réduction de dimension de type PCA en PySpark 
 
 
-Ce travail a été réalisé lors du projet 8 de ma formation Centrale Supèlec et OpenClassrooms de Data Scientist durant le mois de Janvier 2023. Il utilise des images disponibles sur Kaggle.![image](https://github.com/Glsm/Deployez-un-modele-dans-le-cloud/assets/9404053/0235a128-13a6-43d2-bd92-24b72a1bc4e5)
+Ce travail a été réalisé lors du projet 8 de ma formation Centrale Supèlec et OpenClassrooms de Data Scientist durant le mois de Janvier 2023. Il utilise des images disponibles sur Kaggle.

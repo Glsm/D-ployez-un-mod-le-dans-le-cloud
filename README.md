@@ -1,5 +1,6 @@
 # Déployer d'un modèle dans le cloud (AWS) 
 ## Deploy a Model on AWS
+## Projet8-Openclassrooms
 &nbsp;
 **Author:** Gulsum Kapanoglu
 ***
@@ -32,5 +33,7 @@ Le jeu de données est un ensemble d'images de fruits et de labels associés: ht
 Technologies que j'ai utilisées dans ce projet; configuration d'une instance AWS EC2, développer des scripts en Pyspark et à utiliser le cloud AWS pour profiter d’une architecture Big Data (EMR, S3, IAM), Lecture et enregistrement de données sur Amazon S3.
 Une étape de réduction de dimension de type PCA en PySpark 
 
+## Pour plus d'informations
+Veuillez consulter mon analyse complète dans [mon Jupyter Notebook](./Notebook_en_AWS.ipynb) ou ma [présentation](./Presentation.pdf). Pour toute question supplémentaire, veuillez contacter avec moi à gulsumkapanoglu@gmail.com.
 
 Ce travail a été réalisé lors du projet 8 de ma formation Centrale Supèlec et OpenClassrooms de Data Scientist durant le mois de Janvier 2023. Il utilise des images disponibles sur Kaggle.
